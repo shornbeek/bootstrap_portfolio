@@ -171,9 +171,22 @@ h3, h2 {
   border-bottom: 0;
 }
 
+.whitebox {
+   
+  border: 5px;
+  border-color: black;
+  padding-top: 22px;
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 30px 20px 0 20px;
+  background-color: rgb(255, 255, 255);
+  /* position: absolute; */
+  margin-bottom: 100px;
+}
+
 .auth-image {
   float: left;
-  width: 200px;
+  /* width: 200px; */
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
