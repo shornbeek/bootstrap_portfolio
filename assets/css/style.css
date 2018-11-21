@@ -44,7 +44,7 @@ h1 {
   line-height: 49px;
   border-bottom: 3px solid #dddddd;
   background-color: teal;
-  text-align: center;
+  
   color: white;
 }
 
@@ -83,6 +83,10 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
+}
+
+a {
+  color: gray;
 }
 
 nav a {
@@ -232,4 +236,20 @@ input[type=submit] {
   border: 0 none;
 }
 
+
+.h11 {
+  color: teal;
+  background-color: white;
+}
+
+#hornbeek {
+  text-align: center;
+}
+
+.top-nav {
+  text-align: center;
+  padding: 0 10px 0 30px;
+
+  
+}
 
