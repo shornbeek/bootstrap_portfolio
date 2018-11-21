@@ -43,6 +43,9 @@ h1 {
   font-size: 30px;
   line-height: 49px;
   border-bottom: 3px solid #dddddd;
+  background-color: teal;
+  text-align: center;
+  color: white;
 }
 
 h2,
@@ -119,10 +122,10 @@ h3, h2 {
 
 /* main */
 
-#main-container {
+/* #main-container {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
-}
+} */
 
 .main-section {
   float: left;
@@ -215,3 +218,5 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
