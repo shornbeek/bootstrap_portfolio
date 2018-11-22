@@ -146,7 +146,7 @@ h3, h2 {
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 100%;
   margin: 20px 0 25px;
   overflow: auto;
 }
