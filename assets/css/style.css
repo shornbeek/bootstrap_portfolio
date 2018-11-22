@@ -44,7 +44,7 @@ h1 {
   line-height: 49px;
   border-bottom: 3px solid #dddddd;
   background-color: teal;
-  
+  margin-bottom: 0;
   color: white;
 }
 
@@ -255,4 +255,8 @@ input[type=submit] {
 
   background-color: white;
   margin-bottom: 20px;
+}
+
+.floatright {
+  float: right;
 }
